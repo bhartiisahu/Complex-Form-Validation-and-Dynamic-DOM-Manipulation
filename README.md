@@ -46,4 +46,3 @@ To run this repository from GitHub follow these steps:
 
 ![image](https://github.com/user-attachments/assets/19991266-d0a9-4367-bfd2-8046dc247509)
 
-Video Tutorial :- "C:\Users\91810\Videos\EaseUS RecExperts\20240805_230921.mp4"
