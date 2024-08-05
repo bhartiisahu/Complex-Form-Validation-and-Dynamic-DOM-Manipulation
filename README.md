@@ -1,7 +1,10 @@
 # Complex-Form-Validation-and-Dynamic-DOM-Manipulation
 A dyanmaic form using html, css, js and showing dynamic DOM manipulations.
+
+
 Live Demo - https://bhartiisahu.github.io/Complex-Form-Validation-and-Dynamic-DOM-Manipulation/
 To run this repository from GitHub follow these steps:
+
 
 ### 1. **Clone the Repository:**
 
@@ -33,16 +36,7 @@ To run this repository from GitHub follow these steps:
 
    - **Step 1:** In VS Code, locate your HTML file in the Explorer panel on the left.
    - **Step 2:** Right-click on the HTML file and select **"Open with Live Server"**. This option requires the Live Server extension, which can be installed from the VS Code Marketplace.
-   - **Step 3:** If you don't have the Live Server extension installed, you can open the HTML file directly in your browser by double-clicking on it in your file explorer.
-
-### 4. **View the Website:**
-
-   - After opening the HTML file with Live Server, a new browser tab will open with your website running locally. If you're not using Live Server, just open the HTML file directly in your browser.
-
-### 5. **Make Changes and See Updates:**
-
-   - As you make changes to your HTML, CSS, or JavaScript files in VS Code, you can save them, and the browser will automatically reload (if using Live Server) to reflect your changes.
-
+ 
 
 
 
