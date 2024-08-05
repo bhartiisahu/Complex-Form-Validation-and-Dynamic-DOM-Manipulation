@@ -13,7 +13,7 @@ To run this repository from GitHub follow these steps:
    - **Step 3:** Use the `git clone` command to clone the repository. Replace `your-repository-url` with the actual URL of your GitHub repository.
 
    ```bash
-   git clone https://github.com/your-username/your-repository-url.git
+   git clone https://github.com/bhartiisahu/Complex-Form-Validation-and-Dynamic-DOM-Manipulation.git
    ```
 
 ### 2. **Open the Repository in VS Code:**
